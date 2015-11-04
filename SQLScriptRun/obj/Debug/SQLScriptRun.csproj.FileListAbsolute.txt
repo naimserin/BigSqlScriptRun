@@ -1,0 +1,12 @@
+D:\PROJECTS\NAIM\SQLScriptRun\SQLScriptRun\SQLScriptRun\obj\Debug\SQLScriptRun.Properties.Resources.resources
+D:\PROJECTS\NAIM\SQLScriptRun\SQLScriptRun\SQLScriptRun\obj\Debug\SQLScriptRun.csproj.GenerateResource.Cache
+D:\PROJECTS\NAIM\SQLScriptRun\SQLScriptRun\SQLScriptRun\bin\Debug\SQLScriptRun.exe.config
+D:\PROJECTS\NAIM\SQLScriptRun\SQLScriptRun\SQLScriptRun\bin\Debug\SQLScriptRun.exe
+D:\PROJECTS\NAIM\SQLScriptRun\SQLScriptRun\SQLScriptRun\bin\Debug\SQLScriptRun.pdb
+D:\PROJECTS\NAIM\SQLScriptRun\SQLScriptRun\SQLScriptRun\obj\Debug\SQLScriptRun.exe
+D:\PROJECTS\NAIM\SQLScriptRun\SQLScriptRun\SQLScriptRun\obj\Debug\SQLScriptRun.pdb
+D:\PROJECTS\NAIM\SQLScriptRun\SQLScriptRun\SQLScriptRun\obj\Debug\SQLScriptRun.csprojResolveAssemblyReference.cache
+D:\PROJECTS\NAIM\SQLScriptRun\SQLScriptRun\SQLScriptRun\obj\Debug\SQLScriptRun.frm1.resources
+C:\Users\pc\Desktop\SQLScriptRun\SQLScriptRun\SQLScriptRun\SQLScriptRun\bin\Debug\SQLScriptRun.exe.config
+C:\Users\pc\Desktop\SQLScriptRun\SQLScriptRun\SQLScriptRun\SQLScriptRun\obj\Debug\SQLScriptRun.exe
+C:\Users\pc\Desktop\SQLScriptRun\SQLScriptRun\SQLScriptRun\SQLScriptRun\obj\Debug\SQLScriptRun.pdb
